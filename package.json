@@ -1,0 +1,19 @@
+{
+  "name": "commitlint-plugin-body",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "/"
+  },
+  "keywords": [
+    "commitlint",
+    "commitlintplugin"
+  ],
+  "author": "hongda.wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "/"
+  },
+  "homepage": "/"
+}
